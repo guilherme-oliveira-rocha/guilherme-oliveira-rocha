@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">Olá, Seja Bem-Vindo 🙂</h2>
+<h2 align="left">Hello, Welcome 🙂</h2>
 
 ###
 
-<p align="left">Meu nome é Guilherme Oliveira Rocha, atualmente trabalho como desenvolvedor Full Stack. Possuo experiência de + 3 anos no mercado de trabalho como desenvolvedor.<br><br>💻 Desenvolvedor Full Stack na Konecta Brasil<br><br>👨‍🎓 Graduando Ciência da Computação na Universidade Nove de Julho<br><br>📚 Foco de estudos em Javascript avançado envolvendo tanto Front-End quanto Back-End<br><br>💡Conhecimentos sólidos em PHP, Laravel, Wordpress, Vue.js, Node.js, SQL Server, MySQL, GraphQL</p>
+<p align="left">My name is Guilherme Oliveira Rocha, and I currently work as a Full Stack developer. I have over 3 years of experience in the workforce as a developer.<br><br>💻 Full Stack Developer at Konecta Brasil<br><br>👨‍🎓 Computer Science undergraduate at Nove de Julho University<br><br>📚 Focused on advanced Javascript studies involving both Front-End and Back-End<br><br>💡Solid knowledge in PHP, Laravel, Wordpress, Vue.js, Node.js, SQL Server, MySQL, GraphQL</p>
 
 ###
 
