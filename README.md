@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left"> 🧑‍💻My name is Guilherme Oliveira Rocha, and I currently work as a Full Stack developer. I have over 3 years of experience in the workforce as a developer.<br><br>💻 Full Stack Developer at Konecta Brazil..<br><br>👨‍🎓 Computer Science undergraduate at Nove de Julho University.<br><br>📚 Focused on advanced Javascript studies involving both Front-End and Back-End.<br><br>💡Solid knowledge in PHP, Laravel, Wordpress, Vue.js, React.js, Node.js, SQL Server, MySQL, GraphQL.</p>
+<p align="left"> 🧑‍💻My name is Guilherme Oliveira Rocha, and I currently work as a Full Stack developer. I have over 3 years of experience in the workforce as a developer.<br><br>💻 Full Stack Developer at Swift..<br><br>👨‍🎓 Computer Science undergraduate at Nove de Julho University.<br><br>📚 Focused on advanced Javascript studies involving both Front-End and Back-End.<br><br>💡Solid knowledge in PHP, Laravel, Wordpress, Vue.js, React.js, Node.js, SQL Server, MySQL, GraphQL.</p>
 
 ###
 
